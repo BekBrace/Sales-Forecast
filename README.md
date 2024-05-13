@@ -1,5 +1,5 @@
-Explanation of Key Sections:
-Data Preparation and Feature Engineering:
+# Explanation of Key Sections:
+## Data Preparation and Feature Engineering:
 
 1- Load the dataset.
 Create a sales difference column and generate supervised data.
